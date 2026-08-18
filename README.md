@@ -1,71 +1,158 @@
 <h1 align="center">André Miller Fleck</h1>
 
 <p align="center">
-  <strong>Entry-Level Full-Stack Developer · Creative Technologist</strong>
+  <strong>Full-Stack Developer · Product Builder</strong>
 </p>
 
 <p align="center">
-  React, TypeScript & Node.js · Graphic Design background · São Paulo, Brazil
+  Building real products across full-stack development, AI automation and creative technology.
+</p>
+
+<p align="center">
+  React · TypeScript · Next.js · Node.js · Python · AI/LLMs · Three.js/WebGL
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrefleckm/">LinkedIn</a>
   ·
+  <a href="https://x.com/andrefleckm">X</a>
+  ·
   <a href="https://www.behance.net/dreds">Behance</a>
-</p>
-
-<p align="center">
-  <em>Open to junior full-stack, front-end, and creative developer opportunities.</em>
+  ·
+  <a href="https://desenrola.app">Desenrola</a>
 </p>
 
 ---
 
-## About me
+## About
 
-I'm an entry-level full-stack developer with a background in graphic design and client-facing roles. I combine code, visual thinking, and product awareness to turn complex ideas into clear, useful digital experiences.
+I build digital products across front end, back end, APIs, automation and AI-assisted workflows.
 
-- Building full-stack applications with **React, TypeScript, Next.js, Node.js, and Python**
-- Exploring creative development with **Three.js and WebGL**
-- Working with **REST APIs, Git, and practical automation**
+My core stack includes **React, TypeScript, Next.js, Node.js and Python**, with additional work around **LLMs, AI automation, Three.js and WebGL**.
 
-## Toolkit
+I'm especially interested in the point where engineering, product thinking and interface quality meet. My background in **Graphic Design** gives me a strong visual and usability perspective while building software.
+
+Much of my current work happens inside real products whose source code is private. This profile focuses on what can be shown publicly: the products, technical scope, decisions and work behind them.
+
+---
+
+## Selected products
+
+### Desenrola
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,threejs,git,vscode&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Node.js, Python, Three.js, Git, and VS Code" />
+  <a href="https://desenrola.app">
+    <img src="./assets/desenrola-preview.png" alt="Desenrola product preview" width="100%" />
   </a>
 </p>
 
-**Core:** JavaScript · TypeScript · React · Next.js · Node.js · Python · REST APIs · Git  
-**Creative development:** Three.js · WebGL · AI-assisted automation  
-**Design:** Graphic Design · UX/UI · Adobe Photoshop · Illustrator · InDesign
+An AI-assisted conversation product designed to help users respond with better context instead of starting from scratch every time.
 
-## Selected work
+The product works with conversation screenshots, generates multiple response options, supports tone and context refinement, and maintains individual history for each contact.
 
-> These are brief project summaries. Their source code is not public on this profile yet.
+I work directly on its development and evolution across **software, product decisions, UX and practical AI integration**.
+
+**Focus:** Full-stack product development · AI-assisted workflows · Context systems · UX
+
+<a href="https://desenrola.app"><strong>View live product →</strong></a>
+
+---
 
 ### CliniTosa
 
-A multi-tenant SaaS for pet-care businesses. My work spans the front end, back end, and the integration between them.
+A multi-tenant SaaS platform for pet-care businesses.
 
-- **Focus:** REST APIs, front-end/back-end integration, and multi-tenant architecture
-- **Stack:** React, TypeScript, Node.js, and Python
+I contribute across the stack, working with **React and TypeScript** on the front end, **Node.js and Python** on the back end, REST APIs, front-end/back-end integration and multi-tenant application architecture.
+
+The project involves interconnected technical and business requirements inside a real operational product.
+
+**Focus:** Full-stack development · REST APIs · Multi-tenant architecture · Product engineering
+
+**Stack:** React · TypeScript · Node.js · Python
+
+> Source code and product interface are private.
+
+---
 
 ### Jarvis
 
-An Obsidian plugin for workflow, knowledge management, and AI-assisted automation that I actively develop and use in my daily workflow.
+An Obsidian plugin focused on workflow, knowledge management and AI-assisted automation.
 
-- **Focus:** plugin architecture, workflow automation, and knowledge management
-- **Stack:** TypeScript, Node.js, and APIs
+I actively develop and use Jarvis in my own workflow, working on its architecture, integrations and automation flows using **TypeScript, Node.js and APIs**.
+
+Because I use the product myself, its development is continuously driven by real problems around knowledge organization, productivity and AI-assisted workflows.
+
+**Focus:** Plugin architecture · Knowledge management · AI automation · Workflow systems
+
+**Stack:** TypeScript · Node.js · APIs
+
+> Source code is private.
+
+---
+
+## Technical toolkit
+
+### Core development
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,vscode&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Node.js, Python, Git and VS Code" />
+  </a>
+</p>
+
+**Languages:** JavaScript · TypeScript · Python  
+**Front end:** React · Next.js  
+**Back end:** Node.js · REST APIs · API integration  
+**Version control:** Git
+
+### AI & automation
+
+LLMs · AI-assisted workflows · Automation · Multi-agent systems
+
+### Creative development
+
+Three.js · WebGL
+
+---
+
+## How I build
+
+I like working beyond isolated screens or individual features.
+
+My strongest projects usually involve several layers at once:
+
+- turning an idea or real problem into a usable product;
+- building and connecting front-end and back-end systems;
+- integrating APIs and AI-assisted workflows;
+- thinking about usability and interface quality while implementing;
+- iterating from actual use rather than treating software as a static deliverable.
+
+---
+
+## Design background
+
+Before focusing on software development, I built a background in **Graphic Design, visual communication and client-facing work**.
+
+That experience still influences how I build products today, particularly around interface quality, information hierarchy, visual systems and communication.
+
+**Design:** Graphic Design · UX/UI · Adobe Photoshop · Illustrator · InDesign
+
+<a href="https://www.behance.net/dreds"><strong>View design work →</strong></a>
+
+---
 
 ## Beyond the code
 
-I hold a degree in Graphic Design and have worked in real estate, retail, and healthcare. That experience strengthened the communication, customer empathy, organization, and problem-solving skills I now bring to software development.
+I've also worked across **healthcare, real estate, retail and business environments**.
+
+Those experiences gave me direct exposure to customers, operations, sales, communication and practical problems outside a purely technical environment.
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrefleckm/">Let's connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/andrefleckm/">LinkedIn</a>
   ·
-  <a href="https://www.behance.net/dreds">View my design work</a>
+  <a href="https://x.com/andrefleckm">X</a>
+  ·
+  <a href="https://www.behance.net/dreds">Behance</a>
 </p>
