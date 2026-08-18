@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  São Paulo, Brazil · Building thoughtful software at the intersection of code, design, and automation.
+  React, TypeScript & Node.js · Graphic Design background · São Paulo, Brazil
 </p>
 
 <p align="center">
@@ -14,19 +14,21 @@
   <a href="https://www.behance.net/dreds">Behance</a>
 </p>
 
+<p align="center">
+  <em>Open to junior full-stack, front-end, and creative developer opportunities.</em>
+</p>
+
 ---
 
-### About me
+## About me
 
-I'm an entry-level full-stack developer with a background in graphic design and client-facing roles. I enjoy turning complex ideas into clear, useful digital experiences — from interface decisions to APIs and automation.
+I'm an entry-level full-stack developer with a background in graphic design and client-facing roles. I combine code, visual thinking, and product awareness to turn complex ideas into clear, useful digital experiences.
 
 - Building full-stack applications with **React, TypeScript, Next.js, Node.js, and Python**
 - Exploring creative development with **Three.js and WebGL**
-- Working with **REST APIs, Git, and AI-assisted automation**
-- Bringing a designer's eye to interfaces, visual systems, and product details
-- Open to **entry-level and junior full-stack, front-end, or creative developer opportunities**
+- Working with **REST APIs, Git, and practical automation**
 
-### Languages and tools
+## Toolkit
 
 <p>
   <a href="https://skillicons.dev">
@@ -34,23 +36,31 @@ I'm an entry-level full-stack developer with a background in graphic design and 
   </a>
 </p>
 
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `REST APIs` · `Three.js` · `WebGL` · `Git` · `AI automation`
+**Core:** JavaScript · TypeScript · React · Next.js · Node.js · Python · REST APIs · Git  
+**Creative development:** Three.js · WebGL · AI-assisted automation  
+**Design:** Graphic Design · UX/UI · Adobe Photoshop · Illustrator · InDesign
 
-**Creative background:** Graphic Design · UX/UI · Adobe Photoshop · Illustrator · InDesign
+## Selected work
 
-### Selected work
+> These are brief project summaries. Their source code is not public on this profile yet.
 
-#### CliniTosa
+### CliniTosa
 
-A multi-tenant SaaS for pet-care businesses. I contribute code across the stack, working with React and TypeScript on the front end, Node.js and Python on the back end, REST APIs, and multi-tenant architecture.
+A multi-tenant SaaS for pet-care businesses. My work spans the front end, back end, and the integration between them.
 
-#### Jarvis
+- **Focus:** REST APIs, front-end/back-end integration, and multi-tenant architecture
+- **Stack:** React, TypeScript, Node.js, and Python
 
-An Obsidian plugin for workflow, knowledge management, automation, and AI-assisted features. I actively develop it with TypeScript, Node.js, APIs, and AI automation, and use it in my daily workflow.
+### Jarvis
 
-### Beyond the code
+An Obsidian plugin for workflow, knowledge management, and AI-assisted automation that I actively develop and use in my daily workflow.
 
-I hold a degree in Graphic Design and have worked in real estate, retail, and healthcare. Those experiences strengthened the communication, customer empathy, organization, and problem-solving skills that I now bring to software development.
+- **Focus:** plugin architecture, workflow automation, and knowledge management
+- **Stack:** TypeScript, Node.js, and APIs
+
+## Beyond the code
+
+I hold a degree in Graphic Design and have worked in real estate, retail, and healthcare. That experience strengthened the communication, customer empathy, organization, and problem-solving skills I now bring to software development.
 
 ---
 
