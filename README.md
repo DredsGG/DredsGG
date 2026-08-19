@@ -90,6 +90,30 @@ Because I use the product myself, its development is continuously driven by real
 
 ---
 
+## Other work & ventures
+
+### NOW! Imóveis
+
+<p>
+  <a href="https://nowimoveis.com/">
+    <img src="./assets/now-imoveis-preview.png" alt="NOW! Imóveis website preview" width="100%" />
+  </a>
+</p>
+
+A video-first real-estate platform and channel showcasing property tours in São Paulo.
+
+I contribute to NOW! Imóveis on the **business, operational and communication side**, participating in its day-to-day activities and collaboration with the team.
+
+My involvement in this initiative is **non-technical and separate from the software products above**.
+
+**Focus:** Business operations · Communication · Collaboration
+
+<a href="https://nowimoveis.com/"><strong>View website →</strong></a>
+
+> My involvement here is non-technical. The website itself is developed by Hertwave.
+
+---
+
 ## Technical toolkit
 
 ### Core development
