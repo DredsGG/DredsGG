@@ -56,6 +56,8 @@ I work directly on its development and evolution across **software, product deci
 
 <a href="https://desenrola.app"><strong>View live product →</strong></a>
 
+<a href="https://github.com/DredsGG/desenrola"><strong>View product case study →</strong></a>
+
 ---
 
 ### CliniTosa
