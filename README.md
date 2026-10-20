@@ -32,7 +32,7 @@ My core stack includes **React, TypeScript, Next.js, Node.js and Python**, with 
 
 I'm especially interested in the point where engineering, product thinking and interface quality meet. My background in **Graphic Design** gives me a strong visual and usability perspective while building software.
 
-Much of my current work happens inside real products whose source code is private. This profile focuses on what can be shown publicly: the products, technical scope, decisions and work behind them.
+Much of my current work happens inside real products whose source code is private. This profile shows those products, their technical scope and the decisions behind them, plus smaller tools I build end to end with their source code public.
 
 ---
 
@@ -89,6 +89,31 @@ Because I use the product myself, its development is continuously driven by real
 **Stack:** TypeScript · Node.js · APIs
 
 > Source code is private.
+
+---
+
+## Side projects & tools
+
+Smaller tools I designed and built end to end, with the source code public: browser extensions (Chrome Manifest V3) and a desktop automation, each with its own README, architecture notes and tests.
+
+<table>
+  <tr>
+    <td width="56" align="center"><img src="https://raw.githubusercontent.com/DredsGG/midas/main/extension/images/icon-128.png" width="40" alt="Midas" /></td>
+    <td><a href="https://github.com/DredsGG/midas"><strong>Midas</strong></a><br/>Duolingo autopilot: lesson and story solvers plus an Auto Grind that takes the whole path to Legendary, with an in-page HUD.<br/><sub>JavaScript · Chrome MV3 · React fiber · Shadow DOM</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/pokeidle-piloto/main/extension/icons/icon-128.png" width="40" alt="PokeIdle Piloto" /></td>
+    <td><a href="https://github.com/DredsGG/pokeidle-piloto"><strong>PokeIdle Piloto</strong></a><br/>Autopilot for a browser game: market radar, hunt optimizer and daily routine behind a budget vault, a circuit breaker and a hardened command allow-list.<br/><sub>JavaScript · Chrome MV3 · WebSocket · Node tests</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/salva-stories/main/extension/icons/icon-128.png" width="40" alt="Salva Stories" /></td>
+    <td><a href="https://github.com/DredsGG/salva-stories"><strong>Salva Stories</strong></a><br/>Saves the Instagram story on screen: photos at original resolution, videos with sound, DASH tracks muxed in the browser.<br/><sub>JavaScript · Chrome MV3 · fMP4 · Playwright E2E</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/rogue-legend-piloto/main/ui/img/icone.png" width="40" alt="Rogue Legend Piloto" /></td>
+    <td><a href="https://github.com/DredsGG/rogue-legend-piloto"><strong>Rogue Legend Piloto</strong></a><br/>Screen bot for a mobile game on PC: OCR and computer vision to read the screen, strict rules so it only claims free rewards.<br/><sub>Python · OpenCV · RapidOCR · pywebview</sub></td>
+  </tr>
+</table>
 
 ---
 
