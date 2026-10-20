@@ -110,8 +110,8 @@ Smaller tools I designed and built end to end, with the source code public: brow
     <td><a href="https://github.com/DredsGG/salva-stories"><strong>Salva Stories</strong></a><br/>Saves the Instagram story on screen: photos at original resolution, videos with sound, DASH tracks muxed in the browser.<br/><sub>JavaScript · Chrome MV3 · fMP4 · Playwright E2E</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/rogue-legend-piloto/main/ui/img/icone.png" width="40" alt="Rogue Legend Piloto" /></td>
-    <td><a href="https://github.com/DredsGG/rogue-legend-piloto"><strong>Rogue Legend Piloto</strong></a><br/>Screen bot for a mobile game on PC: OCR and computer vision to read the screen, strict rules so it only claims free rewards.<br/><sub>Python · OpenCV · RapidOCR · pywebview</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/rogue-legend-piloto/main/docs/icon.png" width="40" alt="Rogue Legend Piloto" /></td>
+    <td><a href="https://github.com/DredsGG/rogue-legend-piloto"><strong>Rogue Legend Piloto</strong></a> <sub>· beta, in development</sub><br/>Screen bot for a mobile game on PC: OCR and computer vision to read the screen, strict rules so it only claims free rewards.<br/><sub>Python · OpenCV · RapidOCR · pywebview</sub></td>
   </tr>
 </table>
 
