@@ -94,7 +94,7 @@ Because I use the product myself, its development is continuously driven by real
 
 ## Side projects & tools
 
-Smaller tools I designed and built end to end, with the source code public: browser extensions (Chrome Manifest V3) and a desktop automation, each with its own README, architecture notes and tests.
+Smaller tools I designed and built end to end, with the source code public: browser extensions (Chrome Manifest V3) and Windows desktop apps, each with its own README, architecture notes and tests.
 
 <table>
   <tr>
@@ -108,6 +108,14 @@ Smaller tools I designed and built end to end, with the source code public: brow
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/salva-stories/main/extension/icons/icon-128.png" width="40" alt="Salva Stories" /></td>
     <td><a href="https://github.com/DredsGG/salva-stories"><strong>Salva Stories</strong></a><br/>Saves the Instagram story on screen: photos at original resolution, videos with sound, DASH tracks muxed in the browser.<br/><sub>JavaScript · Chrome MV3 · fMP4 · Playwright E2E</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/plateia/main/extension/icons/128.png" width="40" alt="Plateia" /></td>
+    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch companion: claims the channel-points chest and Drops by itself, and a multi-live room that keeps you in every chat while 2 lives earn points in rotation.<br/><sub>JavaScript · Chrome MV3 · Twitch GQL · IRC over WebSocket</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/ciranda/main/ui/ciranda-256.png" width="40" alt="Ciranda" /></td>
+    <td><a href="https://github.com/DredsGG/ciranda"><strong>Ciranda</strong></a><br/>Windows player that turns a folder and every subfolder into one queue of photos and videos, in order or deck-style shuffle.<br/><sub>Python · PySide6 · libmpv · C launcher</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/rogue-legend-piloto/main/docs/icon.png" width="40" alt="Rogue Legend Piloto" /></td>
