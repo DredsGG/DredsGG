@@ -94,24 +94,35 @@ Because I use the product myself, its development is continuously driven by real
 
 ## Side projects & tools
 
-Smaller tools I designed and built end to end, with the source code public: browser extensions (Chrome Manifest V3) and Windows desktop apps, each with its own README, architecture notes and tests.
+Smaller tools I designed and built end to end, with the source code public. Each one has its own README, architecture notes and tests.
+
+### Browser extensions
 
 <table>
   <tr>
     <td width="56" align="center"><img src="https://raw.githubusercontent.com/DredsGG/midas/main/extension/images/icon-128.png" width="40" alt="Midas" /></td>
-    <td><a href="https://github.com/DredsGG/midas"><strong>Midas</strong></a><br/>Duolingo autopilot: lesson and story solvers plus an Auto Grind that takes the whole path to Legendary, with an in-page HUD.<br/><sub>JavaScript · Chrome MV3 · React fiber · Shadow DOM</sub></td>
+    <td><a href="https://github.com/DredsGG/midas"><strong>Midas</strong></a><br/>Duolingo autopilot: lesson and story solvers plus an Auto Grind that takes the whole path to Legendary, with an in-page HUD.<br/><sub>JavaScript · Manifest V3 · React fiber · Shadow DOM</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/pokeidle-piloto/main/extension/icons/icon-128.png" width="40" alt="PokeIdle Piloto" /></td>
-    <td><a href="https://github.com/DredsGG/pokeidle-piloto"><strong>PokeIdle Piloto</strong></a><br/>Autopilot for a browser game: market radar, hunt optimizer and daily routine behind a budget vault, a circuit breaker and a hardened command allow-list.<br/><sub>JavaScript · Chrome MV3 · WebSocket · Node tests</sub></td>
+    <td><a href="https://github.com/DredsGG/pokeidle-piloto"><strong>PokeIdle Piloto</strong></a><br/>Autopilot for a browser game: market radar, hunt optimizer and daily routine behind a budget vault, a circuit breaker and a hardened command allow-list.<br/><sub>JavaScript · Manifest V3 · WebSocket · Node tests</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/salva-stories/main/extension/icons/icon-128.png" width="40" alt="Salva Stories" /></td>
-    <td><a href="https://github.com/DredsGG/salva-stories"><strong>Salva Stories</strong></a><br/>Saves the Instagram story on screen: photos at original resolution, videos with sound, DASH tracks muxed in the browser.<br/><sub>JavaScript · Chrome MV3 · fMP4 · Playwright E2E</sub></td>
+    <td><a href="https://github.com/DredsGG/salva-stories"><strong>Salva Stories</strong></a><br/>Saves the Instagram story on screen: photos at original resolution, videos with sound, DASH tracks muxed in the browser.<br/><sub>JavaScript · Manifest V3 · fMP4 · Playwright E2E</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/plateia/main/extension/icons/128.png" width="40" alt="Plateia" /></td>
-    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch companion: claims the channel-points chest and Drops by itself, and a multi-live room that keeps you in every chat while 2 lives earn points in rotation.<br/><sub>JavaScript · Chrome MV3 · Twitch GQL · IRC over WebSocket</sub></td>
+    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch and Kick companion: claims the channel-points chest and Drops by itself, and a multi-live room that keeps you in every chat while 2 lives earn points in rotation.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · Twitch GQL</sub></td>
+  </tr>
+</table>
+
+### Windows apps
+
+<table>
+  <tr>
+    <td width="56" align="center"><img src="https://raw.githubusercontent.com/DredsGG/covil/main/docs/icon.png" width="40" alt="Covil" /></td>
+    <td><a href="https://github.com/DredsGG/covil"><strong>Covil</strong></a><br/>A self-hosted Discord alternative that runs on your PC: servers, text chat, roles, voice calls with noise suppression and screen sharing up to 1440p 60 fps, from the Windows app or the browser.<br/><sub>JavaScript · React · LiveKit (WebRTC) · Node.js · Electron</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/ciranda/main/ui/ciranda-256.png" width="40" alt="Ciranda" /></td>
