@@ -119,6 +119,10 @@ Smaller tools I designed and built end to end, with the source code public. Each
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/maratona/main/extension/icons/icon-128.png" width="40" alt="Maratona" /></td>
     <td><a href="https://github.com/DredsGG/maratona"><strong>Maratona</strong></a><br/>Crunchyroll on autopilot: presses the player's own Skip Intro, Skip Credits and Next episode buttons, and puts a watched-% ring on every show in your queue that glows when a new episode drops.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · Shadow DOM · Playwright + Selenium E2E</sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/sobrevida/main/extension/icons/icon-128.png" width="40" alt="Sobrevida" /></td>
+    <td><a href="https://github.com/DredsGG/sobrevida"><strong>Sobrevida</strong></a><br/>Helper for the fan game PokéSurvivor: pick your starter before the personality quiz and get exactly that one, then let the auto farm play runs, claim missions, pull gacha and buy upgrades, always off the leaderboard.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · MAIN-world content script · Playwright + Selenium E2E</sub></td>
+  </tr>
 </table>
 
 ### Windows apps
