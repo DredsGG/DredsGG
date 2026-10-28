@@ -115,6 +115,10 @@ Smaller tools I designed and built end to end, with the source code public. Each
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/plateia/main/extension/icons/128.png" width="40" alt="Plateia" /></td>
     <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch and Kick companion: claims the channel-points chest and Drops by itself, and a multi-live room that keeps you in every chat while 2 lives earn points in rotation.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · Twitch GQL</sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/maratona/main/extension/icons/icon-128.png" width="40" alt="Maratona" /></td>
+    <td><a href="https://github.com/DredsGG/maratona"><strong>Maratona</strong></a><br/>Crunchyroll on autopilot: presses the player's own Skip Intro, Skip Credits and Next episode buttons, keeps post-credit scenes, in Crunchyroll's own look.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · Shadow DOM · Playwright + Selenium E2E</sub></td>
+  </tr>
 </table>
 
 ### Windows apps
