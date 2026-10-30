@@ -130,7 +130,7 @@ Smaller tools I designed and built end to end, with the source code public. Each
 <table>
   <tr>
     <td width="56" align="center"><img src="https://raw.githubusercontent.com/DredsGG/covil/main/docs/icon.png" width="40" alt="Covil" /></td>
-    <td><a href="https://github.com/DredsGG/covil"><strong>Covil</strong></a><br/>A self-hosted Discord alternative that runs on your PC: servers, text chat, roles, voice calls with noise suppression and screen sharing up to 1440p 60 fps, from the Windows app or the browser.<br/><sub>JavaScript · React · LiveKit (WebRTC) · Node.js · Electron</sub></td>
+    <td><a href="https://github.com/DredsGG/covil"><strong>Covil</strong></a><br/>Our own Discord for our group of friends: servers, text chat, roles, voice calls with noise suppression and screen sharing up to 1440p 60 fps. Download the Windows app and you're in.<br/><sub>JavaScript · Electron · LiveKit (WebRTC)</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/ciranda/main/ui/ciranda-256.png" width="40" alt="Ciranda" /></td>
