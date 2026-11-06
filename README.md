@@ -123,6 +123,10 @@ Smaller tools I designed and built end to end, with the source code public. Each
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/sobrevida/main/extension/icons/icon-128.png" width="40" alt="Sobrevida" /></td>
     <td><a href="https://github.com/DredsGG/sobrevida"><strong>Sobrevida</strong></a><br/>Helper for the fan game PokéSurvivor: pick your starter before the personality quiz and get exactly that one, then let the auto farm play runs, claim missions, pull gacha and buy upgrades, always off the leaderboard.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · MAIN-world content script · Playwright + Selenium E2E</sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/pokeafk-piloto/main/docs/icon.png" width="40" alt="PokeAFK Piloto" /></td>
+    <td><a href="https://github.com/DredsGG/pokeafk-piloto"><strong>PokeAFK Piloto</strong></a> <sub>· beta, in development</sub><br/>Autopilot for the idle MMO pokeafk.io: auto catch, auto hunt ranked by your own yield, ball restock and a Market radar, all behind a spending vault and a closed command allow-list.<br/><sub>JavaScript · Manifest V3 · WebSocket · Shadow DOM · Node + Playwright E2E</sub></td>
+  </tr>
 </table>
 
 ### Windows apps
