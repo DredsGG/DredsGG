@@ -125,7 +125,7 @@ Smaller tools I designed and built end to end, with the source code public. Each
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/pokeafk-piloto/main/docs/icon.png" width="40" alt="PokeAFK Piloto" /></td>
-    <td><a href="https://github.com/DredsGG/pokeafk-piloto"><strong>PokeAFK Piloto</strong></a> <sub>· beta, in development</sub><br/>Autopilot for the idle MMO pokeafk.io: auto catch, auto hunt ranked by your own yield, ball restock and a Market radar, all behind a spending vault and a closed command allow-list.<br/><sub>JavaScript · Manifest V3 · WebSocket · Shadow DOM · Node + Playwright E2E</sub></td>
+    <td><a href="https://github.com/DredsGG/pokeafk-piloto"><strong>PokeAFK Piloto</strong></a><br/>Autopilot for the idle MMO pokeafk.io: auto catch, auto hunt ranked by your own yield, ball restock and a Market radar, all behind a spending vault and a closed command allow-list.<br/><sub>JavaScript · Manifest V3 · WebSocket · Shadow DOM · Node + Playwright E2E</sub></td>
   </tr>
 </table>
 
