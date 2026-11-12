@@ -127,6 +127,10 @@ Smaller tools I designed and built end to end, with the source code public. Each
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/sintonia/main/extension/icons/icon-128.png" width="40" alt="Sintonia" /></td>
     <td><a href="https://github.com/DredsGG/sintonia"><strong>Sintonia</strong></a><br/>YouTube, tuned once: speed, quality and volume remembered per channel, a queue for your Subscriptions (Em Dia), SponsorBlock skipping and player extras, with no account and no server.<br/><sub>JavaScript · Manifest V3 · Shadow DOM · Playwright tests</sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/brasa/main/extension/icons/icon-128.png" width="40" alt="Brasa" /></td>
+    <td><a href="https://github.com/DredsGG/brasa"><strong>Brasa</strong></a><br/>A cleaner TikTok on your computer: no ads, LIVE or shop videos in the feed, a streak keeper for the chats you choose, video download with sound and auto scroll, with no account and no server.<br/><sub>JavaScript · Manifest V3 · Shadow DOM · Playwright tests</sub></td>
+  </tr>
   </table>
 
 ### Windows apps
