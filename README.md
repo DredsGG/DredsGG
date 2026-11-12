@@ -123,6 +123,10 @@ Smaller tools I designed and built end to end, with the source code public. Each
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/sobrevida/main/extension/icons/icon-128.png" width="40" alt="Sobrevida" /></td>
     <td><a href="https://github.com/DredsGG/sobrevida"><strong>Sobrevida</strong></a><br/>Helper for the fan game PokéSurvivor: pick your starter before the personality quiz and get exactly that one, then let the auto farm play runs, claim missions, pull gacha and buy upgrades, always off the leaderboard.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · MAIN-world content script · Playwright + Selenium E2E</sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/sintonia/main/extension/icons/icon-128.png" width="40" alt="Sintonia" /></td>
+    <td><a href="https://github.com/DredsGG/sintonia"><strong>Sintonia</strong></a><br/>YouTube, tuned once: speed, quality and volume remembered per channel, a queue for your Subscriptions (Em Dia), SponsorBlock skipping and player extras, with no account and no server.<br/><sub>JavaScript · Manifest V3 · Shadow DOM · Playwright tests</sub></td>
+  </tr>
   </table>
 
 ### Windows apps
