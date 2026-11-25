@@ -32,7 +32,7 @@ My core stack includes **React, TypeScript, Next.js, Node.js and Python**, with 
 
 I'm especially interested in the point where engineering, product thinking and interface quality meet. My background in **Graphic Design** gives me a strong visual and usability perspective while building software.
 
-Part of my work happens inside real products whose source code is private. This profile shows their technical scope and the decisions behind them, plus smaller tools I build end to end with their source code public.
+Part of my work happens inside products whose source code is private, like Desenrola. This profile shows their scope and the decisions behind them, plus smaller tools whose source code is public.
 
 ---
 
@@ -62,7 +62,7 @@ I work directly on its development and evolution across **software, product deci
 
 ## Side projects & tools
 
-Smaller tools I designed and built end to end, with the source code public. Each one has its own README, architecture notes and tests.
+Smaller tools I designed and built, each with its own README. Source code is public unless noted.
 
 ### Browser extensions
 
@@ -73,7 +73,7 @@ Smaller tools I designed and built end to end, with the source code public. Each
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/pokeidle-piloto/main/extension/icons/icon-128.png" width="40" alt="PokeIdle Piloto" /></td>
-    <td><a href="https://github.com/DredsGG/pokeidle-piloto"><strong>PokeIdle Piloto</strong></a><br/>Autopilot for a browser game: market radar, hunt optimizer and daily routine behind a budget vault, a circuit breaker and a hardened command allow-list.<br/><sub>JavaScript · Manifest V3 · WebSocket · Node tests</sub></td>
+    <td><a href="https://github.com/DredsGG/pokeidle-piloto"><strong>PokeIdle Piloto</strong></a><br/>Autopilot for a browser game, built with Allan Hert on top of his Radar do Mercado and /hunt extensions: market radar, hunt optimizer and daily routine behind a budget vault, a circuit breaker and a hardened command allow-list.<br/><sub>JavaScript · Manifest V3 · WebSocket · Node tests</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/salva-stories/main/extension/icons/icon-128.png" width="40" alt="Salva Stories" /></td>
@@ -81,7 +81,7 @@ Smaller tools I designed and built end to end, with the source code public. Each
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/plateia/main/extension/icons/128.png" width="40" alt="Plateia" /></td>
-    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch and Kick companion: claims the channel-points chest and Drops by itself, and a multi-live room that keeps you in every chat while 2 lives earn points in rotation.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX · Twitch GQL</sub></td>
+    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch and Kick companion: claims Drops and the Twitch points chest by itself, and a multi-live room where 2 lives earn points in rotation and, on Twitch, you stay in every chat.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX · Twitch GQL</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/maratona/main/extension/icons/icon-128.png" width="40" alt="Maratona" /></td>
@@ -106,7 +106,7 @@ Smaller tools I designed and built end to end, with the source code public. Each
 <table>
   <tr>
     <td width="56" align="center"><img src="https://raw.githubusercontent.com/DredsGG/covil/main/docs/icon.png" width="40" alt="Covil" /></td>
-    <td><a href="https://github.com/DredsGG/covil"><strong>Covil</strong></a><br/>Our own Discord for our group of friends: servers, text chat, roles, voice calls with noise suppression and screen sharing up to 1440p 60 fps. Download the Windows app and you're in.<br/><sub>JavaScript · Electron · LiveKit (WebRTC)</sub></td>
+    <td><a href="https://github.com/DredsGG/covil"><strong>Covil</strong></a><br/>Our own Discord for our group of friends: servers, text chat, roles, voice calls with noise suppression and screen sharing up to 1440p 60 fps. With an invite, download the Windows app and you're in.<br/><sub>JavaScript · Electron · LiveKit (WebRTC) · server private</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/ciranda/main/ui/ciranda-256.png" width="40" alt="Ciranda" /></td>
@@ -114,7 +114,7 @@ Smaller tools I designed and built end to end, with the source code public. Each
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/rogue-legend-piloto/main/docs/icon.png" width="40" alt="Rogue Legend Piloto" /></td>
-    <td><a href="https://github.com/DredsGG/rogue-legend-piloto"><strong>Rogue Legend Piloto</strong></a> <sub>· beta, in development</sub><br/>Screen bot for a mobile game on PC: OCR and computer vision to read the screen, strict rules so it only claims free rewards.<br/><sub>Python · OpenCV · RapidOCR · pywebview</sub></td>
+    <td><a href="https://github.com/DredsGG/rogue-legend-piloto"><strong>Rogue Legend Piloto</strong></a> <sub>· beta, code not published yet</sub><br/>Screen bot for a mobile game on PC: OCR and computer vision to read the screen, strict rules so it only claims free rewards.<br/><sub>Python · OpenCV · RapidOCR · pywebview</sub></td>
   </tr>
 </table>
 
