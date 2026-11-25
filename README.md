@@ -32,7 +32,7 @@ My core stack includes **React, TypeScript, Next.js, Node.js and Python**, with 
 
 I'm especially interested in the point where engineering, product thinking and interface quality meet. My background in **Graphic Design** gives me a strong visual and usability perspective while building software.
 
-Much of my current work happens inside real products whose source code is private. This profile shows those products, their technical scope and the decisions behind them, plus smaller tools I build end to end with their source code public.
+Part of my work happens inside real products whose source code is private. This profile shows their technical scope and the decisions behind them, plus smaller tools I build end to end with their source code public.
 
 ---
 
@@ -60,38 +60,6 @@ I work directly on its development and evolution across **software, product deci
 
 ---
 
-### CliniTosa
-
-A multi-tenant SaaS platform for pet-care businesses.
-
-I contribute across the stack, working with **React and TypeScript** on the front end, **Node.js and Python** on the back end, REST APIs, front-end/back-end integration and multi-tenant application architecture.
-
-The project involves interconnected technical and business requirements inside a real operational product.
-
-**Focus:** Full-stack development · REST APIs · Multi-tenant architecture · Product engineering
-
-**Stack:** React · TypeScript · Node.js · Python
-
-> Source code and product interface are private.
-
----
-
-### Jarvis
-
-An Obsidian plugin focused on workflow, knowledge management and AI-assisted automation.
-
-I actively develop and use Jarvis in my own workflow, working on its architecture, integrations and automation flows using **TypeScript, Node.js and APIs**.
-
-Because I use the product myself, its development is continuously driven by real problems around knowledge organization, productivity and AI-assisted workflows.
-
-**Focus:** Plugin architecture · Knowledge management · AI automation · Workflow systems
-
-**Stack:** TypeScript · Node.js · APIs
-
-> Source code is private.
-
----
-
 ## Side projects & tools
 
 Smaller tools I designed and built end to end, with the source code public. Each one has its own README, architecture notes and tests.
@@ -113,15 +81,15 @@ Smaller tools I designed and built end to end, with the source code public. Each
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/plateia/main/extension/icons/128.png" width="40" alt="Plateia" /></td>
-    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch and Kick companion: claims the channel-points chest and Drops by itself, and a multi-live room that keeps you in every chat while 2 lives earn points in rotation.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · Twitch GQL</sub></td>
+    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch and Kick companion: claims the channel-points chest and Drops by itself, and a multi-live room that keeps you in every chat while 2 lives earn points in rotation.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX · Twitch GQL</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/maratona/main/extension/icons/icon-128.png" width="40" alt="Maratona" /></td>
-    <td><a href="https://github.com/DredsGG/maratona"><strong>Maratona</strong></a><br/>Crunchyroll on autopilot: presses the player's own Skip Intro, Skip Credits and Next episode buttons, and puts a watched-% ring on every show in your queue that glows when a new episode drops.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · Shadow DOM · Playwright + Selenium E2E</sub></td>
+    <td><a href="https://github.com/DredsGG/maratona"><strong>Maratona</strong></a><br/>Crunchyroll on autopilot: presses the player's own Skip Intro, Skip Credits and Next episode buttons, and puts a watched-% ring on every show in your queue that glows when a new episode drops.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX · Shadow DOM · Playwright E2E</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/sobrevida/main/extension/icons/icon-128.png" width="40" alt="Sobrevida" /></td>
-    <td><a href="https://github.com/DredsGG/sobrevida"><strong>Sobrevida</strong></a><br/>Helper for the fan game PokéSurvivor: pick your starter before the personality quiz and get exactly that one, then let the auto farm play runs, claim missions, pull gacha and buy upgrades, always off the leaderboard.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX, Firefox · MAIN-world content script · Playwright + Selenium E2E</sub></td>
+    <td><a href="https://github.com/DredsGG/sobrevida"><strong>Sobrevida</strong></a><br/>Helper for the fan game PokéSurvivor: pick your starter before the personality quiz and get exactly that one, then let the auto farm play runs, claim missions, pull gacha and buy upgrades, always off the leaderboard.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX · MAIN-world content script · Playwright E2E</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/sintonia/main/extension/icons/icon-128.png" width="40" alt="Sintonia" /></td>
@@ -131,7 +99,7 @@ Smaller tools I designed and built end to end, with the source code public. Each
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/brasa/main/extension/icons/icon-128.png" width="40" alt="Brasa" /></td>
     <td><a href="https://github.com/DredsGG/brasa"><strong>Brasa</strong></a><br/>A cleaner TikTok on your computer: no ads, LIVE or shop videos in the feed, a streak keeper for the chats you choose, video download with sound and auto scroll, with no account and no server.<br/><sub>JavaScript · Manifest V3 · Shadow DOM · Playwright tests</sub></td>
   </tr>
-  </table>
+</table>
 
 ### Windows apps
 
@@ -149,6 +117,12 @@ Smaller tools I designed and built end to end, with the source code public. Each
     <td><a href="https://github.com/DredsGG/rogue-legend-piloto"><strong>Rogue Legend Piloto</strong></a> <sub>· beta, in development</sub><br/>Screen bot for a mobile game on PC: OCR and computer vision to read the screen, strict rules so it only claims free rewards.<br/><sub>Python · OpenCV · RapidOCR · pywebview</sub></td>
   </tr>
 </table>
+
+---
+
+## Previous work
+
+**CliniTosa**: co-founded a multi-tenant SaaS for veterinary clinics with grooming services, on the product and business side. The project is archived and its source code is private.
 
 ---
 
