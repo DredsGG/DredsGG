@@ -81,7 +81,7 @@ Smaller tools I designed and built, each with its own README. Source code is pub
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/plateia/main/extension/icons/128.png" width="40" alt="Plateia" /></td>
-    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch and Kick companion: claims Drops and the Twitch points chest by itself, and a multi-live room where 2 lives earn points in rotation and, on Twitch, you stay in every chat.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX · Twitch GQL</sub></td>
+    <td><a href="https://github.com/DredsGG/plateia"><strong>Plateia</strong></a><br/>Twitch and Kick companion: claims Drops and the Twitch points chest by itself, and a multi-live room where 2 lives at a time earn points and, on Twitch, you stay in every chat.<br/><sub>JavaScript · Manifest V3 · Chrome, Edge, Brave, Opera GX · Twitch GQL</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/DredsGG/maratona/main/extension/icons/icon-128.png" width="40" alt="Maratona" /></td>
